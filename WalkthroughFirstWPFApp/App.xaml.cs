@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace ExpenseIt9
+namespace ExpenseIt
 {
     /// <summary>
     /// Interaction logic for App.xaml

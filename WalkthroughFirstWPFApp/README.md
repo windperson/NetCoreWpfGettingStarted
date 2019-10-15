@@ -26,15 +26,15 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 ### Deploying the sample
 
-- Select **Build** > **Deploy Solution**. 
+- Select **Build** > **Deploy Solution**.  
 
 ### Deploying and running the sample
 
-- To debug the sample and then run it, press **F5** or select **Debug** > **Start Debugging**. To run the sample without debugging, press **Ctrl** + **F5** or select **Debug** > **Start Without Debugging**. 
+- To debug the sample and then run it, press **F5** or select **Debug** > **Start Debugging**. To run the sample without debugging, press **Ctrl** + **F5** or select **Debug** > **Start Without Debugging**.  
 
 ### Preview the layout
 
 The completed walkthrough's UI will resemble the following.
 
-![First WPF app sample UI](Walkthrough-finished-UI-example.png)
+![First WPF app sample UI](./doc_img/Walkthrough-finished-UI-example.png)
 
